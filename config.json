@@ -1,0 +1,63 @@
+{
+  "app": {
+    "theme": "dark",
+    "accent_color": "blue",
+    "window_width": 1400,
+    "window_height": 900,
+    "update_check": true,
+    "font_size": 12
+  },
+  "api_keys": {
+    "ipinfo": "",
+    "abuseipdb": "",
+    "emailrep": "",
+    "hunter_io": ""
+  },
+  "settings": {
+    "timeout": 10,
+    "max_retries": 3,
+    "log_searches": true,
+    "auto_save_history": true,
+    "max_history_items": 100
+  },
+  "social_platforms": [
+    "Twitter",
+    "Instagram",
+    "Facebook",
+    "GitHub",
+    "LinkedIn",
+    "TikTok",
+    "YouTube",
+    "Reddit",
+    "Twitch",
+    "Pinterest"
+  ],
+  "dns_records": [
+    "A",
+    "AAAA",
+    "MX",
+    "NS",
+    "TXT",
+    "CNAME",
+    "SOA",
+    "SRV"
+  ],
+  "password_settings": {
+    "default_length": 16,
+    "min_length": 8,
+    "max_length": 128,
+    "include_uppercase": true,
+    "include_lowercase": true,
+    "include_numbers": true,
+    "include_symbols": true
+  },
+  "disposable_email_domains": [
+    "tempmail.com",
+    "guerrillamail.com",
+    "mailinator.com",
+    "temp-mail.org",
+    "10minutemail.com",
+    "maildrop.cc",
+    "yopmail.com"
+  ]
+}
